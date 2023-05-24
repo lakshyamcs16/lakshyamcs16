@@ -5,6 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Toronto, Canada
+*   💬  [Alexa skills/Google actions](https://appperf.shirkalab.io/us/editor/larkish-lakshya-s-apps) Builder - [Check it out!](https://www.amazon.co.uk/Sleeping-Sounds-Relax-Study-Meditate/dp/B0795B4MG1)
 *   🖥️  See a sample at <a target="_blank" rel="noreferrer" href='https://lakshyamcs16.github.io/car-rental-app/'>Car Rental Site</a>
 *   🧠  Currently learning backend development (Java, Microservices, Docker, k8s)
 *   👀  I'm looking for new opportunites
