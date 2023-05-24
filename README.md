@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Belgrade, Serbia
+*   🌍  I'm based in Toronto, Canada
 *   🖥️  See a sample at <a target="_blank" rel="noreferrer" href='https://lakshyamcs16.github.io/car-rental-app/'>Car Rental Site</a>
 *   🧠  Currently learning backend development (Java, Microservices, Docker, k8s)
 *   👀  I'm looking for new opportunites
