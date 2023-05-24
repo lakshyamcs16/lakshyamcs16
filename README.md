@@ -9,8 +9,19 @@ I am Front End developer.
 *   🧠  Currently learning backend development (Java, Microservices, Docker, k8s)
 *   👀  I'm looking for new opportunites
 
-### Skills
+Portfolio
+----------
+<div style="display: flex">
+ <div style="display: block">
+   <a href="https://lakshyamcs16.github.io/car-rental-app/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/carental.png"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/bitter-coin/" style="cursor: pointer;"> <img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/bittercoin.png"/></a>
+  <br><br>
+  <a href="https://lakshyamcs16.github.io/fitness2for7/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/fitness247.png"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/ecommerce-site/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/ecommerce.png"/></a>
+ </div>
+</div>
 
+### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
@@ -20,5 +31,4 @@ I am Front End developer.
   </a> 
 
 ### Socials
-
 <p align="left"> <a href="https://www.linkedin.com/in/lakshyamcs16/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
