@@ -13,11 +13,11 @@ Portfolio
 ----------
 <div style="display: flex">
  <div style="display: block">
-   <a href="https://lakshyamcs16.github.io/car-rental-app/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/carental.png"/></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/bitter-coin/" style="cursor: pointer;"> <img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/bittercoin.png"/></a>
+   <a href="https://lakshyamcs16.github.io/car-rental-app/" style="cursor: pointer;"><img height="200" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/carental.png"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/bitter-coin/" style="cursor: pointer;"> <img height="200" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/bittercoin.png"/></a>
   <br><br>
-  <a href="https://lakshyamcs16.github.io/fitness2for7/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/fitness247.png"/></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/ecommerce-site/" style="cursor: pointer;"><img height="250" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/ecommerce.png"/></a>
+  <a href="https://lakshyamcs16.github.io/fitness2for7/" style="cursor: pointer;"><img height="200" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/fitness247.png"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/ecommerce-site/" style="cursor: pointer;"><img height="200" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/ecommerce.png"/></a>
  </div>
 </div>
 
