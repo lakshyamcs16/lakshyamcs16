@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Belgrade, Serbia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://lakshyamcs16.github.io/car-rental-app/'>Portfolio</a>
+*   🖥️  See a sample at <a target="_blank" rel="noreferrer" href='https://lakshyamcs16.github.io/car-rental-app/'>Car Rental Site</a>
 *   🧠  Currently learning backend development (Java, Microservices, Docker, k8s)
 *   👀  I'm looking for new opportunites
 
