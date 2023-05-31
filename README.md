@@ -12,6 +12,8 @@ I am a Front-end (aspiring fullstack) developer 🧑🏻‍💻
 
 Portfolio
 ----------
+
+Click on the image to explore the sites (build in react!)
 <div style="display: flex">
  <div style="display: block">
   &nbsp; &nbsp; &nbsp; <a href="https://lakshyamcs16.github.io/car-rental-app/" target="_blank" style="cursor: pointer;"><img height="200" src="https://raw.githubusercontent.com/lakshyamcs16/lakshyamcs16/main/carental.png"/></a>
