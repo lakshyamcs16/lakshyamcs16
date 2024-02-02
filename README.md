@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software Engineer and a problem solver 🧑🏻‍💻 
 --------------------------
 
-*   🌍  I live in London, ON, Canada
+*   🌍  I live in London, Ontario, Canada
 *   💬  [Alexa skills/Google actions](https://appperf.shirkalab.io/us/editor/larkish-lakshya-s-apps) Builder - [Check it out!](https://www.amazon.co.uk/Sleeping-Sounds-Relax-Study-Meditate/dp/B0795B4MG1)
 *   🖥️  See a sample at <a target="_blank" rel="noreferrer" href='https://lakshyamcs16.github.io/car-rental-app/'>Car Rental Site</a>
 *   🧠  Currently working on :- Backend- Node.Js, Golang, Java, Microservices, Docker, k8s | Frontend - React.Js, Redux, HTML5, CSS3, Jest, RTL | AWS | Docker | GitLab
